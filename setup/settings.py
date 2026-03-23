@@ -142,8 +142,8 @@ STATICFILES_DIRS = [
 SOCIALACCOUNT_PROVIDERS = {
     'github': {
         'APP': {
-            'client_id': '123',
-            'secret': '456',
+            'client_id': 'Ov23liaPKcuI5b8w6TgI',
+            'secret': '6ff9fb44e8ac36f8fe9ea62f008503e1ce3c48d6',
             'key': ''
         }
     }
